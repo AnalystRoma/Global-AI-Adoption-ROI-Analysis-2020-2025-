@@ -27,11 +27,28 @@ The goal is to understand how AI adoption impacts business performance.
 ](https://www.kaggle.com/datasets/abidhussai512/ai-adoption-in-fortune-500-companies-20202025)
 ---
 
-## 🛠 Tools Used
-- Excel  
-- Power BI  
+
+## 🧹 Data Cleaning & Preparation
+- Removed missing and inconsistent values  
+- Standardized country and industry names  
+- Cleaned AI usage (Yes/No) column  
+- Handled duplicate records  
+- Structured dataset for analysis  
 
 ---
+
+## 📊 Data Analysis (Excel)
+- Created Pivot Tables to analyze:
+  - AI adoption by industry  
+  - ROI comparison across company types  
+  - Country-wise AI distribution  
+- Performed aggregation and trend analysis  
+
+---
+
+## 🛠 Tools Used
+- Excel (Data Cleaning, Pivot Tables, Analysis)  
+- Power BI (Dashboard & Visualization)
 
 ## 📷 Dashboard Preview
 ![Dashboard](images/dashboard.png)
@@ -55,9 +72,17 @@ The goal is to understand how AI adoption impacts business performance.
 ---
 
 ## 🚀 Conclusion
-AI adoption is increasing rapidly, and companies with higher maturity achieve better ROI.
 
+AI adoption is steadily increasing, and companies with higher AI maturity are achieving better ROI.  
+This highlights that strategic use of AI is becoming a key driver of business growth and competitive advantage.
 ---
+
+## 🚀 Future Scope
+
+- Add predictive analysis for AI ROI  
+- Expand dataset with latest data  
+- Apply machine learning models  
+- Perform trend and segmentation analysis  
 
 ## 🙌 Author
 Roma Kannojia | 9305484503 | kannojia.roma8@gmail.com
