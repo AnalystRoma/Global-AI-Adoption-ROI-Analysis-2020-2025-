@@ -3,7 +3,7 @@ Analysis of AI adoption, ROI and maturity across 1000+ companies (2020–2025)
 # 📊 AI Adoption & ROI Analysis (2020–2025)
 
 ## 📌 Project Overview
-This project analyzes AI adoption across 1000 companies between 2020 and 2025.  
+This project analyzes AI adoption across 1000+ companies between 2020 and 2025.  
 The dataset contains 6000+ records covering industries, countries, company types, AI maturity, and ROI.
 
 The goal is to understand how AI adoption impacts business performance.
