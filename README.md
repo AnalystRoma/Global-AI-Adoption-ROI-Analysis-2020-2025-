@@ -19,7 +19,7 @@ The goal is to understand how AI adoption impacts business performance.
 ---
 
 ## 📂 Dataset
-- 6000+ rows  
+- 6000+ rows.  
 - 1000 companies  
 - Features: Country, Industry, Company Type, AI ROI, AI Maturity  
 
